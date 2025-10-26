@@ -6,12 +6,12 @@
   "status": "online",
 
   "domain": "http://localhost:3000",
-  "clientID": "YOUR_BOT_CLIENT_ID",
-  "clientSECRET": "YOUR_BOT_CLIENT_SECRET",
+  "clientID": "1411299627063316572",
+  "clientSECRET": "zhg-wgwOEPD353Z49tiDO58I3qFsudL2",
 
   "mainPrefix": "!",
   "mainLang": "en",
-  "ownerID": "YOUR_DISCORD_USER_ID",
+  "ownerID": "1090851207108628584",
 
   "panelType": "buttons",
   "replyType": "embeds",
