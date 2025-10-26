@@ -1,0 +1,30 @@
+{
+  "activity": {
+    "name": "music",
+    "type": "LISTENING"
+  },
+  "status": "online",
+
+  "domain": "http://localhost:3000",
+  "clientID": "YOUR_BOT_CLIENT_ID",
+  "clientSECRET": "YOUR_BOT_CLIENT_SECRET",
+
+  "mainPrefix": "!",
+  "mainLang": "en",
+  "ownerID": "YOUR_DISCORD_USER_ID",
+
+  "panelType": "buttons",
+  "replyType": "embeds",
+
+  "leaveOnEmpty": true,
+  "leaveOnStop": true,
+  "leaveOnFinish": false,
+  "searchSongs": 10,
+  "YTDLP": "true",
+  "api": {
+    "spotify": {
+      "clientID": "none",
+      "clientSECRET": "none"
+    }
+  }
+}
